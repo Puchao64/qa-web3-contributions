@@ -23,10 +23,15 @@ Also, **quiz questions were clear**, but some links in the reading material didn
 All relevant screenshots are available in the `screenshots/` folder:
 
 - ![01](screenshots/01_galxe_connected.png) — Connected Galxe profile and wallet  
+
 - ![02](screenshots/02_follow_radius.png) — Followed Radius on Galxe  
+
 - ![03](screenshots/03_follow_twitter.png) — All Twitter tasks completed  
+
 - ![04](screenshots/04_quiz_start.png) — Quiz screen before starting  
+
 - ![05](screenshots/05_quiz_passed.png) — Quiz completed successfully  
+
 - ![06](screenshots/06_all_tasks_complete.png) — All tasks completed and points claimed  
 
 ## 🙋 Suggestions
